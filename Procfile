@@ -1,1 +1,1 @@
-web: bin/hubot -a -n gyaresu-bot
+web: bin/hubot -a irc -n gyaresu-bot
