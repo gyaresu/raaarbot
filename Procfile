@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n raaaarbot --enable-slash
+app: bin/hubot -a irc -n raaarbot --enable-slash
